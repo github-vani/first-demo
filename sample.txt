@@ -1,0 +1,1 @@
+I have created a git repo through GIT bash
